@@ -1,16 +1,19 @@
-## Hi there 👋
-
 # Hi there, I'm sd416 👋
 
-I'm a developer who enjoys building practical CLI tools, automation scripts, and monitoring solutions. My repositories mainly feature projects written in **Python**, **Go**, and **Shell**.
+I'm a developer who enjoys building practical CLI tools, automation scripts, monitoring solutions, and custom plugins for the **TRMNL e-ink display**. My repositories primarily feature projects written in **Python**, **JavaScript/TypeScript**, **Go**, and **Shell**.
 
 ## 🛠️ Tech Stack & Languages
-- **Languages:** Python, Go, Shell, JavaScript
-- **Interests:** Automation, CLI tools, DevOps/Monitoring, API integrations
+- **Languages:** Python, JavaScript, TypeScript, Go, Shell
+- **Interests:** TRMNL Plugins (Recipes), Automation, CLI tools, DevOps/Monitoring
 
 ---
 
 ## 🚀 Projects & Repositories
+
+### 📟 TRMNL Plugins & Integrations
+I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink display. 
+
+🌟 **[Check out all my published recipes on my TRMNL Creator Profile](https://trmnl.com/recipes?user_id=4757)**.
 
 ### 🔐 Security & Encryption
 * **[file-encryptor](https://github.com/sd416/file-encryptor)** (Go) - A CLI tool providing secure file encryption and decryption using either SSH/RSA key pairs or password-based encryption.
@@ -27,10 +30,8 @@ I'm a developer who enjoys building practical CLI tools, automation scripts, and
 * **[bash-time-convert](https://github.com/sd416/bash-time-convert)** (Shell) - Instantly convert the current time to multiple specified timezones, displaying results in 12-hour or 24-hour formats.
 * **[bash-calender](https://github.com/sd416/bash-calender)** (Shell) - A neat terminal application to easily create, update, delete, and view meetings using pure Bash.
 * **[csv-splitter](https://github.com/sd416/csv-splitter)** (Python) - A fast and handy utility script to split large CSV files into smaller chunks.
-* **[random_stuff](https://github.com/sd416/random_stuff)** (Python) - A public repository for miscellaneous scripts and experiments.
 
 ---
-
 ## 📈 GitHub Stats
 
 ![](https://komarev.com/ghpvc/?username=sd416)
