@@ -15,6 +15,11 @@ I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink
 
 🌟 **[Check out all my published recipes on my TRMNL Creator Profile](https://trmnl.com/recipes?user_id=4757)**.
 
+![Recipes](https://trmnl-badges.gohk.xyz/badge/recipes?userId=4757&pretty)
+![Total Installs](https://trmnl-badges.gohk.xyz/badge/installs?userId=4757&pretty)
+![Total Forks](https://trmnl-badges.gohk.xyz/badge/forks?userId=4757&pretty)
+![Total Connections](https://trmnl-badges.gohk.xyz/badge/connections?userId=4757&pretty)
+
 ### 🔐 Security & Encryption
 * **[file-encryptor](https://github.com/sd416/file-encryptor)** (Go) - A CLI tool providing secure file encryption and decryption using either SSH/RSA key pairs or password-based encryption.
 
