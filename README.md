@@ -7,6 +7,11 @@ I'm a developer who enjoys building practical CLI tools, automation scripts, mon
 - **Interests:** TRMNL Plugins (Recipes), Automation, CLI tools, DevOps/Monitoring
 
 ---
+## 📈 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=sd416)
+
+---
 
 ## 🚀 Projects & Repositories
 
@@ -37,9 +42,7 @@ I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink
 * **[csv-splitter](https://github.com/sd416/csv-splitter)** (Python) - A fast and handy utility script to split large CSV files into smaller chunks.
 
 ---
-## 📈 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=sd416)
 <!--
 **sd416/sd416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
