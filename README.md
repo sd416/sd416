@@ -18,7 +18,7 @@ I'm a developer who enjoys building practical CLI tools, automation scripts, mon
 ### 📟 TRMNL Plugins & Integrations
 I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink display. 
 
-🌟 **[Check out all my published recipes on my TRMNL Creator Profile](https://trmnl.com/recipes?user_id=4757)**.
+🌟 **[Check out all my published recipes on my TRMNL Creator Profile](https://trmnl.com/recipes?search=&sort-by=popularity&user_id=4757)**.
 
 ![Recipes](https://trmnl-badges.gohk.xyz/badge/recipes?userId=4757&pretty)
 ![Total Installs](https://trmnl-badges.gohk.xyz/badge/installs?userId=4757&pretty)
