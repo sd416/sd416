@@ -29,6 +29,7 @@ I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink
 * **[file-encryptor](https://github.com/sd416/file-encryptor)** (Go) - A CLI tool providing secure file encryption and decryption using either SSH/RSA key pairs or password-based encryption.
 
 ### ⚙️ DevOps, Networking & Monitoring
+* **[Random-log-generator](https://github.com/sd416/random-log-generator)** (Python) - Extremely handy tool to generaate dummy logs for testing logging or log processing systems. 
 * **[cloudflare-dns-update](https://github.com/sd416/cloudflare-dns-update)** (Python) - A dynamic DNS updater that keeps Cloudflare DNS records synced with your current IP.
 * **[random-log-generator](https://github.com/sd416/random-log-generator)** (Python) - Generates realistic log entries with configurable rates and formats (great for testing log aggregators).
 * **[simple-prometheus-exporter](https://github.com/sd416/simple-prometheus-exporter)** (Python) - A reference project for creating a custom Prometheus metrics exporter in Python.
