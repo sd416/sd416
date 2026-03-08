@@ -6,7 +6,7 @@ I'm a developer who enjoys building practical CLI tools, automation scripts, mon
 - **Languages:** Python, JavaScript, TypeScript, Go, Shell
 - **Interests:** TRMNL Plugins (Recipes), Automation, CLI tools, DevOps/Monitoring
 
-![Current Cloudflare Worker Traffic Analytics](https://analytics.pluginapi.xyz)
+![Current Cloudflare Worker Traffic Analytics](https://analytics.pluginapi.xyz?refresh)
 
 ---
 ## 📈 GitHub Stats
