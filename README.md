@@ -31,6 +31,7 @@ I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink
 * **[file-encryptor](https://github.com/sd416/file-encryptor)** (Go) - A CLI tool providing secure file encryption and decryption using either SSH/RSA key pairs or password-based encryption.
 
 ### ⚙️ DevOps, Networking & Monitoring
+* **[cloudflare-worker-stats](https://github.com/sd416/random-log-generator)** (Cloudflare Worker) - A Cloudflare Worker that generates dynamic SVG bar charts of your web traffic or worker usage for your GitHub profile as a badge.
 * **[Random-log-generator](https://github.com/sd416/random-log-generator)** (Python) - Extremely handy tool to generaate dummy logs for testing logging or log processing systems. 
 * **[cloudflare-dns-update](https://github.com/sd416/cloudflare-dns-update)** (Python) - A dynamic DNS updater that keeps Cloudflare DNS records synced with your current IP.
 * **[random-log-generator](https://github.com/sd416/random-log-generator)** (Python) - Generates realistic log entries with configurable rates and formats (great for testing log aggregators).
