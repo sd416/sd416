@@ -17,6 +17,10 @@ I'm a developer who enjoys building practical CLI tools, automation scripts, mon
 
 ## 🚀 Projects & Repositories
 
+### 🌐 Websites & APIs
+* **[FreeHoroscopeAPI](https://freehoroscopeapi.com/)** - A free REST API with JSON responses for daily, weekly, and monthly horoscopes across all 12 zodiac signs, plus planetary data and tarot cards.
+* **[suntracker.me](https://suntracker.me/)** - A free astronomy API providing sunrise, sunset, twilight, golden hour, moonrise, moonset, lunar phases, and planetary positions, with no API key or sign-up required.
+
 ### 📟 TRMNL Plugins & Integrations
 I actively develop custom integrations for the [TRMNL](https://trmnl.com/) e-ink display. 
 
